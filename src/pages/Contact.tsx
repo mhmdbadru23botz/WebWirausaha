@@ -17,7 +17,7 @@ export default function Contact() {
 
   const handleKirimWhatsApp = (e: React.FormEvent) => {
     e.preventDefault();
-    const text = `Halo WebWirausaha, saya ${formData.nama} ingin konsultasi.%0A%0AEmail: ${formData.email}%0AWhatsApp: ${formData.whatsapp}%0ALayanan: ${formData.layanan}%0A%0A*Pesan:*%0A${formData.pesan}`;
+    const text = `Halo EDODOE, saya ${formData.nama} ingin konsultasi.%0A%0AEmail: ${formData.email}%0AWhatsApp: ${formData.whatsapp}%0ALayanan: ${formData.layanan}%0A%0A*Pesan:*%0A${formData.pesan}`;
     const url = `https://wa.me/62811452160?text=${text}`;
     window.open(url, '_blank');
   };
