@@ -60,7 +60,7 @@ export default function Portfolio() {
       <div className="text-center mb-12">
         <h1 className="text-3xl md:text-5xl font-bold mb-6 text-gray-900 dark:text-white leading-tight">Telah Dipercaya Lebih 2000++ Usaha UMKM & Menengah</h1>
         <p className="text-lg text-gray-600 dark:text-gray-400 max-w-3xl mx-auto">
-          Setelah berbagai pengalaman yang telah kami kerjakan, Web Wirausaha telah di percaya oleh pengusaha UMKM untuk mengerjakan berbagai kebutuhan bisnis mereka menjadi lebih luas.
+          Setelah berbagai pengalaman yang telah kami kerjakan, EDODOE telah di percaya oleh pengusaha UMKM untuk mengerjakan berbagai kebutuhan bisnis mereka menjadi lebih luas.
         </p>
       </div>
 
