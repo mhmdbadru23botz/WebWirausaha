@@ -58,7 +58,7 @@ export function Hero() {
            className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight leading-tight mb-2"
         >
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-emerald-500 dark:from-blue-400 dark:to-[#00FF66]">
-            WebWirausaha.
+            EDODOE
           </span>
         </motion.h1>
 
@@ -135,7 +135,7 @@ export function WhyUs() {
                 <div className="p-6 bg-blue-50 dark:bg-white/5 rounded-3xl border border-blue-100 dark:border-white/10">
                   <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-3">Konsultasi Praktis dan Cepat</h3>
                   <p className="text-gray-600 dark:text-gray-400 text-sm leading-relaxed">
-                    Kami dapat melayani konsultasi untuk memenuhi kebutuhan bisnis Anda bersama tim Web Wirausaha yang berpengalaman.
+                    Kami dapat melayani konsultasi untuk memenuhi kebutuhan bisnis Anda bersama tim EDODOE yang berpengalaman.
                   </p>
                 </div>
                 <div className="p-6 bg-emerald-50 dark:bg-[#00FF66]/5 rounded-3xl border border-emerald-100 dark:border-[#00FF66]/20">
@@ -154,12 +154,12 @@ export function WhyUs() {
           </div>
           
           <div className="order-1 lg:order-2">
-            <h2 className="text-sm font-bold tracking-wider text-blue-600 dark:text-[#00FF66] uppercase mb-3">Kenapa Harus Web Wirausaha?</h2>
+            <h2 className="text-sm font-bold tracking-wider text-blue-600 dark:text-[#00FF66] uppercase mb-3">Kenapa Harus EDODOE?</h2>
             <h3 className="text-3xl lg:text-4xl font-bold text-gray-900 dark:text-white leading-tight mb-6">
               Strategi yg Membantu Bisnis Lebih Mudah Ditemukan, Dipercaya, dan Dipilih Pelanggan
             </h3>
             <p className="text-lg text-gray-600 dark:text-gray-400 mb-8">
-              Web Wirausaha membantu bisnis Anda lebih mudah ditemukan, dipercaya, dan dipilih pelanggan melalui berbagai channel digital:
+              EDODOE membantu bisnis Anda lebih mudah ditemukan, dipercaya, dan dipilih pelanggan melalui berbagai channel digital:
             </p>
             
             <ul className="space-y-4">
@@ -201,7 +201,7 @@ export function AboutPreview() {
           >
             <img 
               src="https://b4285852.smushcdn.com/4285852/wp-content/uploads/2026/05/e3a3883b-a0c5-48f9-9aea-002346bea958-1024x1024.png?lossy=2&strip=1&webp=1" 
-              alt="Tentang Webwirausaha" 
+              alt="Tentang EDODOE" 
               className="rounded-3xl shadow-2xl dark:shadow-[0_0_50px_rgba(37,99,235,0.15)] bg-slate-100 dark:bg-white/5 object-cover w-full"
             />
           </motion.div>
@@ -213,7 +213,7 @@ export function AboutPreview() {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="order-2 space-y-6"
           >
-            <h2 className="text-sm font-bold tracking-wider text-blue-600 dark:text-[#00FF66] uppercase mb-2">Tentang Webwirausaha</h2>
+            <h2 className="text-sm font-bold tracking-wider text-blue-600 dark:text-[#00FF66] uppercase mb-2">Tentang EDODOE</h2>
             <p className="text-xl text-gray-900 dark:text-white font-medium mb-6">
               Kami bantu bisnis Anda lebih mudah ditemukan, dipercaya, dan dipilih pelanggan melalui:
             </p>
@@ -247,7 +247,7 @@ export function AboutPreview() {
             
             <div className="mt-8 p-6 bg-blue-50 dark:bg-white/5 rounded-2xl border border-blue-100 dark:border-white/10">
               <p className="text-gray-800 dark:text-gray-200">
-                <strong>Web Wirausaha</strong> adalah agensi pemasaran digital resmi di bawah <strong>PT TEKNO TREND TERATAS</strong>. Kami membantu UMKM dan pemilik bisnis agar lebih dikenal, dipercaya, dan mendapatkan pelanggan lewat internet dengan cara yang jelas, aman, dan profesional.
+                <strong>EDODOE</strong> adalah agensi pemasaran digital resmi di bawah <strong>PT TEKNO TREND TERATAS</strong>. Kami membantu UMKM dan pemilik bisnis agar lebih dikenal, dipercaya, dan mendapatkan pelanggan lewat internet dengan cara yang jelas, aman, dan profesional.
               </p>
             </div>
           </motion.div>
@@ -458,12 +458,12 @@ export function Team() {
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
             >
-              <h2 className="text-sm font-bold tracking-wider text-blue-600 dark:text-[#00FF66] uppercase mb-4">Tim WebWirausaha</h2>
+              <h2 className="text-sm font-bold tracking-wider text-blue-600 dark:text-[#00FF66] uppercase mb-4">Tim EDODOE</h2>
               <h3 className="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white leading-tight mb-6">
                 Siap Untuk Bekerja Sama<br />Untuk Hasil Yang Maksimal
               </h3>
               <p className="text-lg text-gray-600 dark:text-gray-400 mb-8 leading-relaxed">
-                Kami dengan bangga memperkenalkan tim WebWirausaha yg terdiri dari para profesional yang berpengalaman di dunia digital. Dengan pengalaman bertahun-tahun dan berbagai proyek sukses yang telah kami selesaikan, Anda dapat mempercayakan kebutuhan digital bisnis Anda kepada kami.
+                Kami dengan bangga memperkenalkan tim EDODOE yg terdiri dari para profesional yang berpengalaman di dunia digital. Dengan pengalaman bertahun-tahun dan berbagai proyek sukses yang telah kami selesaikan, Anda dapat mempercayakan kebutuhan digital bisnis Anda kepada kami.
               </p>
               
               <div className="flex flex-wrap gap-8">
@@ -484,7 +484,7 @@ export function Team() {
           </div>
           
           <div className="relative h-[500px] lg:h-[600px] rounded-3xl overflow-hidden shadow-2xl">
-             <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=800" alt="Tim WebWirausaha" className="w-full h-full object-cover" />
+             <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=800" alt="Tim EDODOE" className="w-full h-full object-cover" />
              <div className="absolute inset-0 bg-gradient-to-t from-gray-900/80 via-gray-900/20 to-transparent"></div>
              <div className="absolute bottom-8 left-8 right-8">
                <div className="bg-white/10 backdrop-blur-md border border-white/20 p-6 rounded-2xl flex items-center justify-between">
@@ -507,7 +507,7 @@ export function Team() {
 // Testimonials
 export function Testimonials() {
   const testimonials = [
-    { name: "Heni Novitasari", role: "CEO TechStart", quote: "Pelayanan sangat luar biasa! Landing page saya selesai dalam 2 hari dan konversi penjualan naik 300% setelah pakai jasa WebWirausaha.", image: "https://i.pravatar.cc/150?u=a042581f4e29026024d" },
+    { name: "Heni Novitasari", role: "CEO TechStart", quote: "Pelayanan sangat luar biasa! Landing page saya selesai dalam 2 hari dan konversi penjualan naik 300% setelah pakai jasa EDODOE.", image: "https://i.pravatar.cc/150?u=a042581f4e29026024d" },
     { name: "Andi Suhandi", role: "Founder LocalBrand", quote: "Timnya sangat solutif. Supportnya beneran unlimited, tanya tengah malam aja masih dibales. Websitenya juga ngebut banget parah.", image: "https://i.pravatar.cc/150?u=a042581f4e29026704d" },
     { name: "Kholik Poibara", role: "Marketing Director", quote: "Awalnya ragu, tapi setelah website e-commerce jadi, wow! Desainnya premium banget dan sangat SEO friendly. Kinerja mantul!", image: "https://i.pravatar.cc/150?u=a04258114e29026702d" }
   ];
@@ -524,9 +524,9 @@ export function Testimonials() {
      <section className="py-24 bg-gray-50 dark:bg-[#0d1838] border-y border-gray-200 dark:border-white/5 overflow-hidden">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-12">
           <div className="text-center max-w-3xl mx-auto">
-            <h2 className="text-3xl md:text-5xl font-bold text-gray-900 dark:text-white mb-6">Apa yang mereka katakan tentang Web Wirausaha?</h2>
+            <h2 className="text-3xl md:text-5xl font-bold text-gray-900 dark:text-white mb-6">Apa yang mereka katakan tentang EDODOE?</h2>
             <p className="text-lg text-gray-600 dark:text-gray-400 mb-8">
-              Web Wirausaha telah dipercaya oleh 2000++ bisnis, baik di dalam maupun luar negeri, untuk membangun identitas brand yang lebih kuat, profesional, dan siap bersaing.
+              EDODOE telah dipercaya oleh 2000++ bisnis, baik di dalam maupun luar negeri, untuk membangun identitas brand yang lebih kuat, profesional, dan siap bersaing.
             </p>
           </div>
           
@@ -580,7 +580,7 @@ export function Faq() {
     { q: "Berapa lama proses pengerjaan pembuatan website?", a: "Tergantung pada kompleksitas website, umumnya antara 3 hari untuk company profile standar hingga 2-8 minggu untuk toko online atau website custom." },
     { q: "Apakah ada garansi untuk layanan pembuatan website / SEO?", a: "Khusus untuk pembuatan website, kami berikan garansi support error dan bug selama masa layanan. Untuk SEO, kami menggunakan strategi white-hat SEO yang butuh waktu dan kami garansi sesuai dengan standar Google." },
     { q: "Apakah saya perlu menyiapkan materi konten sendiri?", a: "Idealnya materi seperti foto produk dan profil usaha disiapkan oleh Anda. Namun, jika belum ada, kami menyediakan layanan copywriting terpisah yang bisa ditambahkan." },
-    { q: "Bagaimana sistem pembayaran untuk jasa Web Wirausaha?", a: "Kami menerapkan sistem pembayaran DP (Down Payment) 50% di awal sebelum proyek dimulai, dan pelunasan 50% setelah website atau layanan selesai dikerjakan sesuai kesepakatan dan siap online." },
+    { q: "Bagaimana sistem pembayaran untuk jasa EDODOE?", a: "Kami menerapkan sistem pembayaran DP (Down Payment) 50% di awal sebelum proyek dimulai, dan pelunasan 50% setelah website atau layanan selesai dikerjakan sesuai kesepakatan dan siap online." },
     { q: "Apakah website yang dibuat sudah mobile friendly?", a: "Tentu saja! Semua website yang kami buat sudah responsif dan optimal untuk diakses secara responsif dan sempurna melalui smartphone, tablet, maupun desktop komputer." },
     { q: "Apakah ada biaya langganan bulanan atau tahunan?", a: "Hanya terdapat biaya perpanjangan domain dan hosting setiap tahun. Kami selalu transparan di awal mengenai biaya perpanjangan ini (kecuali Anda memilih hosting sendiri)." },
     { q: "Bagaimana jika saya ingin custom desain website di luar paket yang tersedia?", a: "Sangat bisa! Silakan hubungi tim kami untuk konsultasi gratis mengenai spesifikasi fitur atau desain khusus, dan kami akan membuatkan penawaran (quotation) yang sesuai." },
