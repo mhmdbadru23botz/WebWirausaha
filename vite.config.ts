@@ -13,9 +13,9 @@ export default defineConfig(() => {
         registerType: 'autoUpdate',
         includeAssets: ['favicon.ico', 'robots.txt', 'apple-touch-icon.png'],
         manifest: {
-          name: 'WebWirausaha',
-          short_name: 'WebWirausaha',
-          description: 'WebWirausaha - Strategi Digital Tepat, Bisnis Makin Pesat',
+          name: 'EDODOE',
+          short_name: 'EDODOE',
+          description: 'EDODOE - Strategi Digital Tepat, Bisnis Makin Pesat',
           theme_color: '#2563eb',
           background_color: '#ffffff',
           icons: [
