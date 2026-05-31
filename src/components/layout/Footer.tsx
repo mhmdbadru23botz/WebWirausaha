@@ -20,7 +20,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
           <div className="col-span-1 md:col-span-2">
             <Link to="/" className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-emerald-500 dark:from-blue-400 dark:to-[#00FF66] bg-clip-text text-transparent mb-4 inline-block">
-              WebWirausaha.
+              EDODOE
             </Link>
             <p className="text-gray-600 dark:text-gray-400 mb-6 max-w-sm">
               Kami membangun solusi digital yang elegan dan powerful untuk membantu bisnis Anda tumbuh eksponensial di era modern.
@@ -55,7 +55,7 @@ export function Footer() {
         <div className="w-full h-px bg-gradient-to-r from-transparent via-gray-300 dark:via-white/20 to-transparent mb-8"></div>
         
         <div className="flex flex-col md:flex-row justify-between items-center text-gray-500 text-sm">
-          <p>Copyright © {new Date().getFullYear()} Web Wirausaha by PT TEKNO TREND TERATAS.</p>
+          <p>Copyright © {new Date().getFullYear()} EDODOE by PT TEKNO TREND TERATAS.</p>
           <div className="flex items-center mt-4 md:mt-0 space-x-6">
              <Link to="#" className="hover:text-gray-900 dark:hover:text-white transition-colors">Privacy Policy</Link>
              <Link to="#" className="hover:text-gray-900 dark:hover:text-white transition-colors">Terms of Service</Link>
