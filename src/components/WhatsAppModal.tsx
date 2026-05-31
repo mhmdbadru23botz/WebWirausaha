@@ -26,7 +26,7 @@ export function WhatsAppModal({ isOpen, onClose, serviceTitle = '', defaultPrice
     e.preventDefault();
     if (!formData.nama || !formData.nohp) return;
 
-    let text = `Halo WebWirausaha,%0A`;
+    let text = `Halo EDODOE,%0A`;
     if (serviceTitle) {
       text += `Saya tertarik dengan layanan: *${serviceTitle}*%0A%0A`;
     } else {
