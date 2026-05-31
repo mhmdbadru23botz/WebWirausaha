@@ -37,7 +37,7 @@ export function Navbar() {
         <div className="flex items-center justify-between h-20">
           <div className="flex-shrink-0">
             <Link to="/" className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-emerald-500 dark:from-blue-400 dark:to-[#00FF66] bg-clip-text text-transparent">
-              WebWirausaha.
+              EDODOE
             </Link>
           </div>
           
