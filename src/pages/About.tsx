@@ -9,7 +9,7 @@ export default function About() {
           animate={{ opacity: 1, y: 0 }}
           className="text-center mb-16"
         >
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 text-gray-900 dark:text-white">Lebih Dekat dengan <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-emerald-500 dark:from-blue-400 dark:to-[#00FF66]">WebWirausaha.</span></h1>
+          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 text-gray-900 dark:text-white">Lebih Dekat dengan <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-emerald-500 dark:from-blue-400 dark:to-[#00FF66]">EDODOE</span></h1>
           <p className="text-lg text-gray-600 dark:text-gray-400 max-w-3xl mx-auto leading-relaxed">
             Kami bantu bisnis Anda lebih mudah ditemukan, dipercaya, dan dipilih pelanggan melalui strategi terintegrasi.
           </p>
@@ -21,7 +21,7 @@ export default function About() {
              animate={{ opacity: 1, x: 0 }}
              transition={{ delay: 0.2 }}
              src="https://b4285852.smushcdn.com/4285852/wp-content/uploads/2026/05/e3a3883b-a0c5-48f9-9aea-002346bea958-1024x1024.png?lossy=2&strip=1&webp=1" 
-             alt="Tim WebWirausaha" 
+             alt="Tim EDODOE" 
              className="rounded-3xl shadow-2xl dark:shadow-[0_0_50px_rgba(37,99,235,0.15)] bg-slate-100 dark:bg-white/5 object-cover w-full aspect-square md:aspect-auto"
            />
            <motion.div 
@@ -60,7 +60,7 @@ export default function About() {
              
              <div className="mt-8 p-6 bg-blue-50 dark:bg-white/5 rounded-2xl border border-blue-100 dark:border-white/10">
                 <p className="text-gray-800 dark:text-gray-200">
-                  <strong>Web Wirausaha</strong> adalah agensi pemasaran digital resmi di bawah <strong>PT TEKNO TREND TERATAS</strong>. Kami membantu UMKM dan pemilik bisnis agar lebih dikenal, dipercaya, dan mendapatkan pelanggan lewat internet dengan cara yang jelas, aman, dan profesional.
+                  <strong>EDODOE</strong> adalah agensi pemasaran digital resmi di bawah <strong>PT TEKNO TREND TERATAS</strong>. Kami membantu UMKM dan pemilik bisnis agar lebih dikenal, dipercaya, dan mendapatkan pelanggan lewat internet dengan cara yang jelas, aman, dan profesional.
                 </p>
              </div>
            </motion.div>
